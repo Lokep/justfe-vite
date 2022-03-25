@@ -1,0 +1,41 @@
+{
+  "hash": "ba23221f",
+  "browserHash": "6caf507b",
+  "optimized": {
+    "ant-design-vue": {
+      "file": "/Users/lokep/Desktop/project/github/justfe-vite/.vuepress/.cache/ant-design-vue.js",
+      "src": "/Users/lokep/Desktop/project/github/justfe-vite/node_modules/ant-design-vue/es/index.js",
+      "needsInterop": false
+    },
+    "vue": {
+      "file": "/Users/lokep/Desktop/project/github/justfe-vite/.vuepress/.cache/vue.js",
+      "src": "/Users/lokep/Desktop/project/github/justfe-vite/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js",
+      "needsInterop": false
+    },
+    "vue-router": {
+      "file": "/Users/lokep/Desktop/project/github/justfe-vite/.vuepress/.cache/vue-router.js",
+      "src": "/Users/lokep/Desktop/project/github/justfe-vite/node_modules/vue-router/dist/vue-router.esm-bundler.js",
+      "needsInterop": false
+    },
+    "@vue/devtools-api": {
+      "file": "/Users/lokep/Desktop/project/github/justfe-vite/.vuepress/.cache/@vue_devtools-api.js",
+      "src": "/Users/lokep/Desktop/project/github/justfe-vite/node_modules/@vue/devtools-api/lib/esm/index.js",
+      "needsInterop": false
+    },
+    "@vueuse/core": {
+      "file": "/Users/lokep/Desktop/project/github/justfe-vite/.vuepress/.cache/@vueuse_core.js",
+      "src": "/Users/lokep/Desktop/project/github/justfe-vite/node_modules/@vueuse/core/index.mjs",
+      "needsInterop": false
+    },
+    "nprogress": {
+      "file": "/Users/lokep/Desktop/project/github/justfe-vite/.vuepress/.cache/nprogress.js",
+      "src": "/Users/lokep/Desktop/project/github/justfe-vite/node_modules/nprogress/nprogress.js",
+      "needsInterop": true
+    },
+    "@vuepress/shared": {
+      "file": "/Users/lokep/Desktop/project/github/justfe-vite/.vuepress/.cache/@vuepress_shared.js",
+      "src": "/Users/lokep/Desktop/project/github/justfe-vite/node_modules/@vuepress/shared/lib/esm/index.js",
+      "needsInterop": false
+    }
+  }
+}
